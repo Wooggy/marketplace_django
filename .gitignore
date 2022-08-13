@@ -1,0 +1,9 @@
+/venv/
+.idea/
+__pycache__
+/djangoProject/app_users/migrations/__init__.py
+/djangoProject/app_marketplace/migrations/__init__.py
+/djangoProject/db.sqlite3
+**/migrations/**
+**/media/**
+probe.py
